@@ -18,7 +18,7 @@ export default function Home() {
     due_date: "",
   });
 
-  const API_URL = "http://127.0.0.1:5000/api/tasks";
+  const API_URL = "https://mini-task-dashboard-backend.onrender.com/api/tasks";
 
   const fetchTasks = async () => {
     try {
