@@ -120,7 +120,7 @@ npm run dev
 Add screenshot here after deployment.
 
 ```md
-![Dashboard](.public/screenshots/Screenshot 2026-05-25 111134.png)
+![Dashboard](./public/screenshots/Screenshot 2026-05-25 111134.png)
 ```
 
 ---
