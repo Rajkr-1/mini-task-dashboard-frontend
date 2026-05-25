@@ -121,6 +121,8 @@ Add screenshot here after deployment.
 
 ```md
 ![Dashboard](public/screenshots/dashboard.png)
+<img width="1887" height="854" alt="dashboard" src="https://github.com/user-attachments/assets/a04227e0-cba6-4b5e-8ef5-7df941924b31" />
+
 ```
 
 ---
