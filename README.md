@@ -6,7 +6,7 @@ A full stack task management web application built using Next.js, Node.js, Expre
 
 ## Live Demo
 
-Frontend: https://your-frontend-url.vercel.app
+Frontend:[https://mini-task-dashboard-frontend.onrender.com]
 
 Backend API: https://your-backend-url.onrender.com
 
@@ -120,7 +120,7 @@ npm run dev
 Add screenshot here after deployment.
 
 ```md
-![Dashboard](./public/screenshots/dashboard.png)
+![Dashboard](.public/screenshots/Screenshot 2026-05-25 111134.png)
 ```
 
 ---
@@ -128,6 +128,7 @@ Add screenshot here after deployment.
 ## AI Tools Used
 
 - GitHub Copilot
+- Claude
 
 ---
 
